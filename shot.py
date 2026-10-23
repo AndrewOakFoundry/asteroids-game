@@ -1,0 +1,6 @@
+
+
+
+
+
+class Shot(CircleShape)
